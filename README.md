@@ -20,10 +20,10 @@ The model generates natural language descriptions of satellite images.
 ## Dataset
 
 We use the RSICD (Remote Sensing Image Captioning Dataset).
-Total images: 10,921
-Captions per image: 5
-Image size: 224 × 224
-Source: Google Earth, Baidu Maps, etc.
+Total images: 10,921 <r>
+Captions per image: 5 <r>
+Image size: 224 × 224 <r>
+Source: Google Earth, Baidu Maps, etc. <r>
 
 Download from:
 https://huggingface.co/datasets/arampacha/rsicd
