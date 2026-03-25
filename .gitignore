@@ -1,0 +1,49 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Virtual Environments
+
+venv/
+env/
+.venv/
+
+# Data (DO NOT PUSH LARGE FILES)
+
+data/
+*.zip
+*.csv
+
+# Model Files
+
+*.pt
+*.pth
+
+# Logs & Outputs
+
+*.log
+outputs/
+results/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE Files
+
+.vscode/
+.idea/
+
+# Temporary Files
+
+*.tmp
+*.bak
