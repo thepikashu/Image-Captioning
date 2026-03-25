@@ -17,6 +17,17 @@ The model generates natural language descriptions of satellite images.
 * Compare LSTM vs Transformer performance
 * Evaluate using standard NLP metrics
 
+## Dataset
+
+We use the RSICD (Remote Sensing Image Captioning Dataset).
+Total images: 10,921
+Captions per image: 5
+Image size: 224 × 224
+Source: Google Earth, Baidu Maps, etc.
+
+Download from:
+https://huggingface.co/datasets/arampacha/rsicd
+
 ## Features
 
 * End-to-end training pipeline
